@@ -15,3 +15,7 @@ Consumers pick it up automatically — jsDelivr within minutes, `rpc.elastos.inf
 - `rpc.elastos.info/images` — box-1 pulls this repo via a daily `systemd` timer.
 
 Logos are matched to a validator by **filename**.
+
+## Logo ownership
+Each logo is the property of its respective validator / node operator, hosted here only to display their
+identity across Elastos services. Operators can request a change or removal via an issue or PR.
