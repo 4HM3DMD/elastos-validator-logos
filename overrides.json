@@ -1,0 +1,7 @@
+{
+  "_comment": "Local BPoS logo map, keyed by producer owner public key. The upstream manifest at bocheng0000/BPoS-logo returns 404 and is no longer a dependency, so new BPoS nodes are mapped here. Merged last by build-logo-manifest.py, so these win over any inherited entry. Add a node by appending its owner pubkey and the image filename in images/.",
+  "03e571a49a6a1a7d440868dca4ff8fd6ae1141e24f9f203b6bfe8f4919c6d84a60": {
+    "nickname": "Luca 3.0 🐘 Own your digital life with Elastos! 🔥",
+    "logo": "luca3.jpg"
+  }
+}
